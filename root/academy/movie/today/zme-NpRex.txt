@@ -1,0 +1,19 @@
+################################################
+#   readme notepad
+################################################
+
++   suchen in oscar 
+    regEx :     zahlen mit Oscar '\*\d' 
+    plan.oscar     :    '^!'
+    plan.any       :    '^?'
+    best.oscar     :    '\*\*\d!'
+    any.oscar      :    '\*\d'
+
+
++   Beispiel 
+
+#   7 oscars bestfilm
+$>  \*\*7!
+
+#   any numberOfOscars &&bestfilm
+$>  \*\*\d!

@@ -1,0 +1,5 @@
+-1,"DUMMY","DUMMY","DUMMY","diverse",3/10/2019 00:00:00,12345
+1,"pha","Hassen","Peter","male",9/7/1964 00:00:00,90489
+2,"jsf","Schaefer","Jan","transgender",1/4/1964 00:00:00,53175
+3,"honky","Hempfling","Andreas","male",10/3/1970 00:00:00,97465
+4,"vika","Davydkova","Viktoria","female",8/1/1974 00:00:00,10278

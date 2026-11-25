@@ -1,0 +1,106 @@
+--- readme MIB
+
+### !date:<2025-01-28>:Di
+
++   sorted tbl_movie 
+    export_acc2xls, sortByFilter, import_xls, createNewPrimKey
+
++   update 
+    country, city ... etc mit URL
+
+
+### !date:<2025-01-31>:Fr 
+
++   11  Basis Tabellen 
++   10  Forms
++   2   Reports
+
++   Verbunde ComboBox erstellen
+    mit Abfragen
+
+
+### !date:<2025-02-01>:Sa 
+
+>>> Problem bei der Erstellung des Forms 
+    frm_z_file2movie 
+
++   Die ComboBox 
+    cbFile aktualisiert den Text sRemark
+        sRemark
+    oder 
+    cbMovie aktualisiert den Text 
+        sTitelDE
+
++   Anm: Es besteht die 
+    gui-Konvertierungsmöglichkeit 
+        ComboBox <=> Textfeld
+    mit dem Mause-Kontextmenu
+        "ChangeTo"
+
++   cbFile, cbMovie Properties
+    Data.RowSource
+        := "SELECT tab_file.ID, tab_file.sRemark, * FROM tab_file;"
+    bzw.
+        := SELECT tab_movie.ID, tab_movie.sTitleDE, * FROM tab_movie; 
+    Format.ColumnCount := 2
+    Format.ColumnWidth := 1cm;8cm
+    Format.ListWidth := 10cmd
+
++   wichtig, die Property RowSource kann mit 
+    dem Query Designer erstellt werden.
+
+<<< eof 
+
+SELECT tbl_file2movie.*, tab_movie.iYear, tab_movie.sTitleDE
+FROM tab_movie INNER JOIN tbl_file2movie ON tab_movie.ID = tbl_file2movie.xiMovie;
+
+
+### !date:<2025-02-06>:Do 
+
++   Farbschema der DB 
+    "Colors.Aspect"
+
+
+### !date:<2025-02-15>:Sa 
+
++   movie AA 
+    https://de.wikipedia.org/wiki/Oscar/Alle_Filme
+
+
+### !date:<2025-10-04>:Sa 
+
++   neues Medium 
+    Dem Film eine Nummer vergeben 4xxx
+        in tab_file 
+    
++   File-Nummer ändern
+    1.  Relationsship.Design 
+        tab_z2file2movie Relation 
+            xiFile:tabFile.ID 
+        löschen    
+    2.  File-Nummer in tab_file ändern 
+    3.  Relation in tab_z2file2movie ergänzen oder 
+        aktualisieren 
+    4.  Relation in 1 wieder herstellen
+
++   Filme sortieren
+    1.  Tabelle tab_z2_file2movie 
+            exportieren nach <TEMP> 
+        mit MsAccess
+    2.  Mit MsExcel diese Tabelle öffnen
+    (   3.  Zeile 1 Überschrift löschen 
+        4.  Spalte ID (A) löschen
+    )   * NICHT durchführen
+    5.  Sortieren nach neuer Spalte A 
+    6.  MsExcel Save&Close 
+    7.  MsAccess Tabelle 
+            tab_z2_file2movie 
+        löschen 
+    8.  Gesicherte Tabelle importieren
+        ExternalData|NewDataSource|FromFile
+       
+            
+### !date:<2026-08-29>:Sa 
+
++   add Rocky I
+        

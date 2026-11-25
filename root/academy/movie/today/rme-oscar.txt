@@ -1,0 +1,37 @@
+################################################
+#   key:Oscar
+################################################
+
+--- Oscar Verleihung Jahrzehnte
+    https://de.wikipedia.org/wiki/Oscarverleihung_1960
+    https://de.wikipedia.org/wiki/Oscarverleihung_1970
+    https://de.wikipedia.org/wiki/Oscarverleihung_1980
+    https://de.wikipedia.org/wiki/Oscarverleihung_1990
+    https://de.wikipedia.org/wiki/Oscarverleihung_2000
+    https://de.wikipedia.org/wiki/Oscarverleihung_2010
+    https://de.wikipedia.org/wiki/Oscarverleihung_2020
+    https://de.wikipedia.org/wiki/Oscarverleihung_2025
+
+--- Filme mit den meisten Oscars 
+    https://www.rnd.de/kultur/liste-das-sind-die-filme-mit-den-meisten-oscars-2TJ4JL3YRZDVJOSRZBKUDWH4TE.html#elf-oscars
+
+
+
+################################################
+#   Legende:    
+#       $       =:  gekauft 
+#       **<n>!  =:  bester Film mit n Oscars
+#       1xFrage|Stern =:   vielleicht kaufen
+#       @       =:  im Warenkorb
+#       @!      =:  bestellt und unterwegs
+#       -       =:  nein  
+#       §       =:  canceled 
+#       ?       =:  vielleicht bestellen?
+
+#   Headline:
+    199x    &depository=10::(8+2)   &sta:closed
+    Jahrzehnt =:1990..1999
+    gekauft 8x besterFilm $! + 2x extraFilm $
+    sta:closed: keine neuen Filme geplant
+################################################
+

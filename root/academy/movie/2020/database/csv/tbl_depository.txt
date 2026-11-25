@@ -1,0 +1,8 @@
+1,"FILM","WZ","GEN",100,"Deja"
+2,"FILM","WZ","GEN",100,"Deja"
+3,"FILM","WZ","ORG",36,"Deja - originale im Ordner"
+4,"FILM","WZ","COVER",1,"Original - steht frei im Schrank"
+5,"SPORT","WZ","GEN",50,"PCS"
+6,"DOC","WZ","GEN",50,"PCS"
+7,"FILM","WZ","GEN",100,"Deja"
+8,"FILM","WZ","GEN",100,"Deja"

@@ -1,0 +1,7 @@
+"ac","Actor"
+"di","Director"
+"mu","Music Componist"
+"pr","Producer"
+"sc","Screen Play"
+"so","Song Performer"
+"wr","Writer - Author"

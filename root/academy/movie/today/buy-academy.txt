@@ -1,0 +1,232 @@
+################################################
+#   my Academy Awards buy-list
+################################################
+
+=== 19xx    &depository=6::(4+2)    &sta:closed
+$   Metropolis          1927
+$   The Wizard of Oz    1939        *2
+$!  Gone with the Wind  1940        **8!
+-   Rebecca             1941        **2!
+$!  Casablanca          1944        **3!
+$!  An American in Paris    1952    **6!
+$!  From Here to Eternity   1953    **8!
+-   On the Waterfront       1954    **8!
+-   Gigi                1958        **9!
+
+=== 196x    &depository=10::(5+5)   &sta:closed
+$!  Ben Hur 1960                    **11!
+$   Some Like It Hot 1960 *1
+$!e Apartement, The 1961 <errorDisc> **5!
+    Butterfield 8  1961 *1
+$   Breakfast at Tiffany’s  1962 *2
+$!  West Side Story     1962        **10!
+$!  Lawrence of Arabia  1963        **7!
+    To Kill a Mockingbird 1963 *3
+-   Cleopatra 1964      *4
+-   Tom Jones 1964                  **4!
+    Mary Poppins        1965    *5
+-   My Fair Lady        1965        **8!
+$   Zorba the Greek     1965    *3
+$   Doctor Zhivago      1966    *5
+-   Sound of Music      1966        **5!
+§   Ein Mann zu jeder Jahreszeit 1967 **6!
+    Grand Prix  1967     *3
+-   Who’s Afraid of Virginia Woolf 1967  *5/13
+-   Kanonenboot am Yangtse-Kiang 1966   *0/8
+$!  In the Heat of the Night 1968       **5!
+-   Oliver 1969                     **5!
+$   Rosemary’s Baby  1969           *1
+    
+=== 197x    &depository=11::(7+4)   &sta:closed
+    Butch Cassidy and the Sundance Kid *4
+    Hello, Dolly!       1970    *3
+$!  Midnight Cowboy	    1970        **3!
+    Love Story          1970        *1
+-   Patton              1971        **7!
+$!  French Connection, The  1972    **5!
+$   Cabaret (Liza Minelli) 1972    *8 
+$!  Godfather      I        1973    **3!
+$!  Sting, The (Der Clou)   1974    **7!
+$!  Godfather Part II, The  1975    **6!
+    Barry Lyndon    1976    *4
+$   Jaws            1976    *3
+$!  ... Flew over the Cuckoo’s Nest 1976 **5!
+    All the President’s Men  1977 *4
+    Network     1977    *4
+$!  Rocky       1977            **3!
+$   Living in Peril - L.A. Psycho  1977    *0
+    Julia       1978    *3
+$   Anni Hall   1978            **4!
+$   Star Wars   1978    *6
+-   Coming Home 1979    *3
+-   Deer Hunter, The 1979       **5!
+
+=== 198x    &depository=12::(6+6)   &sta:closed
+    All That Jazz       1980 *4
+$   Alien               1980 *1
+    Die Blechtrommel    1980 *1
+-   Kramer vs. Kramer   1980    **5!
+    Ordinary People     1981    **4!
+    Tess                1981    *3
+$   The Blues Brothers  1981 *0
+    Chariots Of Fire    1982    **4!
+$   Raiders of the Lost Ark 1982 *5
+    Reds  1982 *3
+$   E.T.: The Extra-Terrestrial 1983 *4
+$!  Gandhi              1983        **8!
+    Fanny och Alexander 1984    *4
+$   Flashdance          1984    *1
+$!  Terms of Endearment 1984    **5!
+$!  Amadeus             1985    **8!     
+$!  Out of Africa       1986    **7!
+    Hannah and Her Sisters  1987 *3
+    TopGun:1            1987    *1
+$!  Platoon             1987        **4!
+$!  The Last Emperror   1988        **9!
+$   WallStreet      1988 *1
+    Beetlejuice     1988 *1
+-   Rain Man        1989            **4!
+    Who Framed Roger Rabbit 1988 *3
+
+=== 199x    &depository=10::(8+2)   &sta:closed
+    Driving Miss Daisy 1990     **4!
+$!  Dances with Wolves 1991     **7!
+    Dick Tracy 1991     *3
+$!  Silence of the Lambs 1992   **5!
+$!  Unforgiven 1993             **4!
+    Schlaflos in Seattle        *0
+    Howards End     *3
+    Bram Stoker's Dracula *3    
+    The Piano 1994      *3
+$!  Schindler's List 1994       **7!
+    Philadelphia 1994   *2
+    Jurassic Park 1994  *3
+$!  Forrest Gump 1995           **6!
+$   Pulp Fiction 1995   *1
+-   Braveheart 1996             **5!
+    Apollo 13 1996      *2
+    Sense and Sensibility 1996  *1
+    The Usual Suspects 1996     *2
+    Leaving Las Vegas 1996      *1
+$   Mighty Aphrodite  1996      *1
+$!  English Patient, The 1997   **9!
+?	As Good as It Gets (Besser Geht's nicht) *2
+$   Harry außer sich  1997      *0
+$   Men in Black 1998           *1
+$!  Titanic 1998                **11!
+?   @email für Dich             *0
+$!  Shakespeare in Love 1999    **7!
+-   Saving Private Ryan 1999 *5
+    
+=== 200x    &depository=8::(5+3)    &sta:closed
+$!  American Beauty 2000        **5!
+    Matrix, The 2000    *4
+    Sleepy Hollow 2000  *1   
+-   Gladiator 2001              **5!
+    Traffic - Macht des Kartell 2001    *4
+    Crouching Tiger, Hidden Dragon 2001 *4
+    Erin Brockovich     *1
+$!  Beautiful Mind, A   2002        **4!
+$   Moulin Rouge!   2002 *2
+$!  Chicago         2003            **6!
+    The Hours       2003 *1
+    The Pianist     2003 *3
+    Frida           2003 *2
+    Was das Herz begehrt - Something’s Gotta Give
+    About Schmidt 2003 (GGA)
+$!  Lord of the Rings 3   2004      **11!
+    Lost in Translation 2004 s*1
+-   Master and Commander   2004 *2
+    Monster             2004 *2
+    Mystic River        2004 *2    
+    Incredibles, The    2005 *2
+    Million Dollar Baby 2005        **4!   
+    Die Unglaublichen – The Incredibles 2005 *2
+$   Aviator 2005    *5
+    Ray 2005 *2
+    L.A. Crash      2006            **3!
+    Brokeback Mountain  2006 *3
+$   King Kong   2006 *3
+    Memoirs of a Geisha  2006 *3
+$   Lemony Snicket’s ... 2006 *1
+-   Departed        2007    **4!    
+$   Pans Labyrinth  2007    *3
+    Dreamgirls  2007 *2
+§   No Country for Old Men 2008     **4!    
+    There Will Be Blood 2008 *2   
+    The Bourne Ultimatum *3
+    Abbitte 2008 *1 
+    Michael Clayton 2008 *1
+$!  Slumdog Millionaire 2009        **8!   
+    Curious Case of Benjamin Button  *3
+    The Dark Knight 2009 *2
+    Milk 2009 *2
+    The Reader 2009 *1
+
+=== 201x    &depository=14::(6+8)   &sta:closed
+$!  Tödliches Kommando - Hurt Locker, 2010 **6!
+    Avatar  2010 *3
+    Oben    2010 *2
+$!  The King’s Speech   2011    **4! 
+$   True Grit 2011 *0
+    Inception 2011 *4
+-   The Social Network  2011 *3    
+$!  Artist, The         2012    **5!
+    Hugo Cabaret 2012               *5
+    The Iron Lady       2012 *2
+    The Help            2012 *1
+$   Midnight in Paris   2012 *1
+-   Argo                2013    **3!    
+    Life of Pi:Schiffbruch mit Tiger 2013 *4
+    Les Misérables      2013 *3
+    Lincoln             2013 *2
+$   Silver Linings      2013 *1
+$   Snow White and the Huntsman 2013 *0
+$   The Incredible Burt Wonderstone 2013 *0
+-   12 Years a Slave    2014        **3!
+?   Gravity             2014    *7
+    Dallas Buyers Club  2014 *3
+    Her    2014 *1/5
+$   The Wolf of Wall Street 2014 *0/5
+?   American Hustle     2014 *0/10
+$!  Birdman 2015                    **4!
+    The Grand Budapest Hotel    2015 *4/9   
+    Whiplash                    2015 *3
+    Interstellar 2015   *1
+    Spotlight           2016        **2!
+$   Mad Max: Fury Road  2016    *6/10
+    Revenant, The       2016    *3
+-   Moonlight           2017        **3!      
+$   La La Land          2017        *6/14
+    The Founder - McDonalds  2017   *0
+$!  Shape of Water      2018        **4!    
+    Dunkirk             2018 *3/8    
+$!  Green Book          2019    **3!    
+    Bohemian Rhapsody   2019    *4/5
+    Black Panther       2019    *3
+    The Favourite   2019    *1/10
+    Roma            2019    *3/10
+
+=== 202x    &depository=5::(5+0)    &sta:open
+$!  Parasite 2020               **4!
+?   1917            2020 *3/10      
+    Once Upon a Time … in Hollywood 2020 *2/10
+    Joker 2020 *2
+$!  Nomadland  2021             **3!    :&new
+    Mank    *2/10
+    Coda 2022                   **3!
+-   Dune: Part One 2022 *6/10
+    The Power of the Dog 2022   *1/12
+$!  Everything Everywhere All at Once 2023 **7!
+    Im Westen nichts Neues  2023 *4/9
+    TopGun:Maverik          2023 *1/6
+$!  Oppenheimer 2024    **7!
+$   Poor Things 2024            *4/11
+?   Elvis       2024            *0/8
+    Killers of the Flower Moon 2024 *0/10
+    Barbie  2024 *1/8
+    Amy - Back To Black 2024    *0
+$!  Anora 2025                  **5!
+    The Brutalist   2025 *3
+    
+    
